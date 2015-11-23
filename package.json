@@ -9,6 +9,9 @@
   "author": "tarcode",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "express": "~4.13.3"
+    "express": "~4.13.3",
+    "express-handlebars": "~2.0.1",
+    "multer": "~1.1.0",
+    "body-parser": "~1.14.1"
   }
 }
